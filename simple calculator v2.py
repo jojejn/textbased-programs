@@ -1,6 +1,6 @@
 print("welcome to a calculator")
 i = 0
-
+# i made all the operations in functions just to make it easier
 def add():
     result = str(num1+num2)
     print("the result is: " + result)
